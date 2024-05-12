@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "portada_desktop": "profile_desktop.png",
+        "portada_tablet": "profile_tablet.png",
+        "portada_mobile": "profile_mobile.png",
+        "nombre_y_apellido": "Lucas Gonzalo Rosi",
+        "edad": 27,
+        "correo_electronico": "lucas.rosi@davinci.edu.ar"
+    }
+]
